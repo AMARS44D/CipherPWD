@@ -15,6 +15,12 @@ CipherPWD is a secure password and file management tool. It allows you to encryp
 
 ## Installation
 
+### WINDOWS 
+
+Simply go to the "Windows Users" folder and execute the CipherPWD.exe application
+
+### LINUX
+
 1. **Clone the GitHub repository**:
 
    ```bash
@@ -62,10 +68,6 @@ Launch the tool with `cipherpwd` in the terminal. Follow the on-screen instructi
 - **Delete**: Enter `6` to delete a password from the file.
 - **Quit**: Enter `7` to quit the tool.
 
-## License
-
-This project is licensed under the **MIT License**. You are free to use, modify, and distribute it, subject to the terms outlined in the [LICENSE.md](./LICENSE.md) file.
-
 ## Useful Shortcuts
 
 - **Ctrl + Alt + T**: Opens a new terminal window.
@@ -74,7 +76,34 @@ This project is licensed under the **MIT License**. You are free to use, modify,
   mousepad /path/to/your/file.txt
   ```
 
-## Authors
+'/' for Linux , '\\' for Windows .
 
-- [AMSOU ISMAIL]
-- [AMAR SAAD]
+# License
+
+This project is licensed under the **MIT License**. You are free to use, modify, and distribute it, subject to the terms outlined in the [LICENSE.md](./LICENSE.md) file.
+
+# Authors
+
+## GitHub Profiles
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/amsou-ismail" target="_blank">
+        <img src="https://github.com/amsou-ismail.png" width="100" height="100" style="border-radius: 20px;" alt="Ismail GitHub"/><br/>
+        <sub><b>AMSOU ISMAIL</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AMARS44D" target="_blank">
+        <img src="https://github.com/AMARS44D.png" width="100" height="100" style="border-radius: 20px;" alt="Saad GitHub"/><br/>
+        <sub><b>AMAR SAAD</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## LinkedIn Profiles (If a problem occurs, please contact us)
+
+- [AMSOU ISMAIL](https://www.linkedin.com/in/amsou-ismail)
+- [AMAR SAAD](https://www.linkedin.com/in/amar-saad)
